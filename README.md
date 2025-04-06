@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-- 🌟 Currently building **MysticScribe**, an AI-powered creative writing platform.
 - 🧠 Focused on learning **Machine Learning** 
 - 🔍 Interested in  in ML and Computer Vision.
 - 🛠️ Comfortable with: `Node.js`, `Express.js`, `MongoDB`, `React`, `HTML/CSS`, `JavaScript`
