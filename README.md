@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 🚀 About Me
 
 - 🧠 Focused on learning **Machine Learning** 
-- 🔍 Interested in  in ML and Computer Vision.
+- 🔍 Interested in  in embedded programming and Computer Vision.
 - 🛠️ Comfortable with: `Node.js`, `Express.js`, `MongoDB`, `React`, `HTML/CSS`, `JavaScript`
 - 💡 Always exploring new ideas, technologies, and AI applications.
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 📊 Machine Learning & Model Evaluation
 - 📚 Research methods 
 - ⚛️ React 
-- ☁️ Planning to dive into DevOps soon
+- ☁️ Planning to dive into DevOps soo
 
 ---
 
